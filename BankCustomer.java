@@ -15,7 +15,7 @@ class BankCustomer
 		System.out.println("Account number is:"+  Account_no);
 		System.out.println("customer balance is:"+ Balance);
 		System.out.println("customer Address is:"+ Address);
-		System.out.println("customer Aadhar number is:"+  Aadhar_no);
+		//System.out.println("customer Aadhar number is:"+  Aadhar_no);
         System.out.println("customer Pan number is:"+ Pan_no);
 	}
 	static void bank_details(){
